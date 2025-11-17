@@ -6,8 +6,6 @@ rm "$OUTPUT_DIR"/*.html
 for file in "$INPUT_DIR"/*.md; do
     filename=$(basename "$file" .md)
     pandoc "$file" \
-        -f gfm \
-	--metadata title="Wxvelength" \
         --template=template.html \
         -o "$OUTPUT_DIR/$filename.html"
 done

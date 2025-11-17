@@ -1,4 +1,4 @@
-# Books
+% Books
 
 Sometimes I read books. Here are my favorites ones, in no particular order.
 

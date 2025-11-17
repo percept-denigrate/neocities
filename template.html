@@ -7,11 +7,25 @@
     <link href="/style.css" rel="stylesheet" type="text/css" media="all">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href='https://fonts.googleapis.com/css?family=Montserrat' rel='stylesheet'>
     <link href="https://fonts.googleapis.com/css2?family=Michroma" rel="stylesheet">
   </head>
 <body>
+    $if(title)$
+    <div class="text-box">
+        <h1>$title$</h1>
+    </div>
+    $endif$
+
     <div class="text-box">
         $body$
+    </div>
+    <div class="text-box">
+        <p style="text-align: center">
+	    <a href="/">Home</a>
+	     · 
+	    <a href="mailto:instance-acausality@proton.me">Contact</a>
+	</p>
     </div>
 </body>
 </html>
