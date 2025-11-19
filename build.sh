@@ -10,4 +10,4 @@ for file in "$INPUT_DIR"/*.md; do
         -o "$OUTPUT_DIR/$filename.html"
 done
 
-neocities push public/
+neocities push --prune public/
