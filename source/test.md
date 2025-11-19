@@ -4,13 +4,13 @@ intro
 
 ## Part 1: the beginning
 
-## 1.1
+### 1.1
 
 **foo**
 
 [index](index)
 
-## 1.2
+### 1.2
 
 blabla 
 
