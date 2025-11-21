@@ -18,6 +18,13 @@ blabla
 > 
 > bar
 
+`code`
+
+```
+code
+    block
+```
+
 ## Part 2: how it went wrong
 
 *blabla*
