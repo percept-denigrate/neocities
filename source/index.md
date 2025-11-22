@@ -23,8 +23,8 @@ Music:
 
 Reviews:
 
-- [Books](books)
-- [Movies](movies)
+- [Books](reviews/books)
+- [Movies](reviews/movies)
 
 ## Inspirations
 

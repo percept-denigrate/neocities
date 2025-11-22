@@ -1,3 +1,3 @@
 % Page not found
 
-![](cat.jpg)
+![](/cat.jpg)
